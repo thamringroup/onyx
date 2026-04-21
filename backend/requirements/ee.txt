@@ -226,7 +226,7 @@ python-dateutil==2.8.2
     #   botocore
     #   kubernetes
     #   posthog
-python-dotenv==1.1.1
+python-dotenv==1.2.2
     # via
     #   litellm
     #   pydantic-settings
